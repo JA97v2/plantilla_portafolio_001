@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Ubuntu;
+    src:url("./Ubuntu/Ubuntu-Regular.ttf");
+}
+
+body {
+    font-family: 'Ubuntu', sans-serif;
+    color: #fff;
+    background-image: url(../img/packground-img.jpg)!important;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
