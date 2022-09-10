@@ -11,3 +11,18 @@ body {
     background-attachment: fixed;
     background-size: 100% 100%;
 }
+
+.third-section {
+    margin: auto;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 30px 100px 20px;
+    height: 620px;
+    background-color: black;
+    /* Animations */
+    animation: fadeIn ease 1s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
